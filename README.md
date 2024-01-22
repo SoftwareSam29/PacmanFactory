@@ -1,2 +1,2 @@
 # PacmanFactory
-Pacman exercise to create a game that creates and bounces Pacmen all over the webpage
+This was an exercise given to us at Week 7; our goal was to create a webpage that essentially has this Pacman game. You can add as many Pacmen as you like, once you press "Start Game", the pacmen will begin to bounce all over the webpage.
