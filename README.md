@@ -3,5 +3,5 @@ This was an exercise given to us at Week 7; our goal was to create a webpage tha
 <p>
   <img src = "PacmanGame.png"
     width="400"
-    height="600"/>
+    height="500"/>
 </p>
